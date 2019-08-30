@@ -1,5 +1,45 @@
 [
   {
+    "dateClose": "2020-09-01",
+    "dateOpen": "2017-07-18",
+    "description": "Google Hire was an applicant tracking system to help small to medium businesses distribute jobs, identify and attract candidates, build strong relationships with candidates, and efficiently manage the interview process.",
+    "link": "https://en.wikipedia.org/wiki/Google_Hire",
+    "name": "Hire by Google",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-12-15",
+    "dateOpen": "2011-05-25",
+    "description": "Google Correlate was a service that provided users information about how strongly the frequency of multiple search terms correlates with each other over a specified time interval.",
+    "link": "https://de.wikipedia.org/wiki/Google_Correlate",
+    "name": "Google Correlate",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-09-18",
+    "dateOpen": "2017-08-07",
+    "description": "YouTube Messages was a direct messaging feature that allowed users to share and discuss videos one-on-one and in groups on YouTube.",
+    "link": "https://9to5google.com/2019/08/20/youtube-killing-messages",
+    "name": "YouTube Messages",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-09-30",
+    "dateOpen": "2011-01-27",
+    "description": "Follow Your World allowed users to register points of interest on Google Maps and receive email updates whenever the imagery is updated.",
+    "link": "https://maps.googleblog.com/2011/01/sign-up-for-imagery-update-alert.html",
+    "name": "Follow Your World",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-06-15",
+    "dateOpen": "2018-09-07",
+    "description": "Blog Compass was a blog management tool that integrated with WordPress and Blogger available only in India.",
+    "link": "https://9to5google.com/2019/07/15/google-kills-blog-compass/",
+    "name": "Blog Compass",
+    "type": "app"
+  },
+  {
     "dateClose": "2009-08-05",
     "dateOpen": "2007-01-01",
     "description": "Google Radio Automation was a hardware and software service used by radio operators to automate song playing among other radio station functions.",
@@ -722,7 +762,7 @@
   {
     "dateClose": "2015-01-15",
     "dateOpen": "2013-04-15",
-    "description": "Google Glass was a wearable computer with an optical head-mounted display and camera that allows the wearer to interact with various applications and the Internet via natural language voice commands. Glass now only lives on as Enterprise Product.",
+    "description": "Google Glass Explorer Edition was a wearable computer with an optical head-mounted display and camera that allows the wearer to interact with various applications and the Internet via natural language voice commands.",
     "link": "https://en.wikipedia.org/wiki/Google_Glass",
     "name": "Google Glass Explorer Edition",
     "type": "hardware"
@@ -874,7 +914,7 @@
   {
     "dateClose": "2013-11-20",
     "dateOpen": "2006-06-28",
-    "description": "Google Checkout was an online payment processing service provided by Google aimed at simplifying the process of paying for online purchases. It was discontinued on November 20, 2013 and the service moved to Google Wallet.",
+    "description": "Google Checkout was an online payment processing service that aimed to simplify the process of paying for online purchases.",
     "link": "https://en.wikipedia.org/wiki/Google_Checkout",
     "name": "Google Checkout",
     "type": "service"
@@ -930,7 +970,7 @@
   {
     "dateClose": "2013-04-30",
     "dateOpen": "2008-04-07",
-    "description": "Google Cloud Connect was a free cloud computing plug-in for Windows Microsoft Office 2003, 2007 and 2010 that can automatically store and synchronize any Microsoft Word document, PowerPoint presentation, or Excel spreadsheet to Google Docs in Google Docs or Microsoft Office formats.",
+    "description": "Google Cloud Connect was a free cloud computing plugin for multiple versions of Microsoft Office that automatically stored and synchronized files to Google Docs.",
     "link": "https://en.wikipedia.org/wiki/Google_Cloud_Connect",
     "name": "Google Cloud Connect",
     "type": "service"
@@ -946,7 +986,7 @@
   {
     "dateClose": "2018-10-16",
     "dateOpen": "2016-09-12",
-    "description": "Google News & Weather is a news aggregator application developed by Google. On May 8, 2018, Google announced that it was merging Google Play Newsstand and Google News & Weather into a single service, called Google News. It was available on the Android and iOS operating systems.",
+    "description": "Google News & Weather was a news aggregator application available on the Android and iOS operating systems.",
     "link": "https://en.wikipedia.org/wiki/Google_News_%26_Weather",
     "name": "Google News & Weather",
     "type": "app"
@@ -978,7 +1018,7 @@
   {
     "dateClose": "2009-08-05",
     "dateOpen": "2008-11-01",
-    "description": "Flix Cloud was a high-capacity online video encoding service using Amazon Elastic Compute Cloud (EC2). On 19 February 2010, Google acquired On2 Technologies for $124.6 million in Google stock. After this purchase, the following message was posted on the on2.com website: \"The On2 products Flix Pro, Flix Standard, Flix Exporter, Flix PowerPlayers, Flix Live, Flix DirectShow SDK, Flix Publisher and Flix Engine are no longer for sale.\"",
+    "description": "Flix Cloud was a high-capacity online video encoding service.",
     "link": "https://en.wikipedia.org/wiki/On2_Technologies#Acquisition_by_Google",
     "name": "On2 Flix Cloud",
     "type": "service"
@@ -986,7 +1026,7 @@
   {
     "dateClose": "2011-12-31",
     "dateOpen": "2009-01-01",
-    "description": "Noop was a project by Google engineers Alex Eagle and Christian Gruber aiming to develop a new programming language. Noop attempted to blend the best features of 'old' and 'new' languages, while syntactically encouraging well accepted programming best-practices. Noop was initially targeted to run on the Java Virtual Machine.",
+    "description": "Noop was a project by Google engineers Alex Eagle and Christian Gruber aiming to develop a new programming that attempted to blend the best features of 'old' and 'new' languages and best-practices.",
     "link": "https://en.wikipedia.org/wiki/Noop",
     "name": "Noop Programming Language",
     "type": "service"
@@ -1034,7 +1074,7 @@
   {
     "dateClose": "2017-02-08",
     "dateOpen": "2016-03-02",
-    "description": "Google Hands Free was a mobile payment system that allowed users to pay their bill by simply saying 'I'll pay with Google.' It used Bluetooth to wirelessly connect to payment terminals, and that longer range meant that you could keep your phone in your pocket.",
+    "description": "Google Hands Free was a mobile payment system that allowed users to pay their bill using Bluetooth to connect to payment terminals by saying 'I'll pay with Google.'",
     "link": "https://www.slashgear.com/google-shutting-down-hands-free-next-week-02473609/",
     "name": "Google Hands Free",
     "type": "service"
@@ -1272,9 +1312,9 @@
     "type": "service"
   },
   {
-    "dateClose": "2019-10-31",
+    "dateClose": "2020-12-31",
     "dateOpen": "2013-03-15",
-    "description": "Google Hangouts was a communication platform which included messages, video chat, and VOIP features. Execution date is tentative.",
+    "description": "Google Hangouts was a communication platform which included messages, video chat, and VOIP features. Execution scheduled \"late 2020\".",
     "link": "https://arstechnica.com/gadgets/2019/01/the-great-google-hangouts-shutdown-begins-october-2019/",
     "name": "Google Hangouts",
     "type": "service"
